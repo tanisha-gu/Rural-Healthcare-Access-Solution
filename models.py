@@ -9,7 +9,7 @@ from models.db import db
 # ══════════════════════════════════════════════════════════════════
 # User  (patients, doctors, pharmacy staff, admins)
 # ══════════════════════════════════════════════════════════════════
-
+#here is data base
 class User(db.Model):
     __tablename__ = "users"
 
